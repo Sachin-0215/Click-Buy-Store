@@ -1,2 +1,2 @@
-# Click-Buy-Store
+# Click-and-Buy-Store
 Using React Functionality
